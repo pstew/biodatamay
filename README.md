@@ -2,4 +2,4 @@
 
 This is a sentence that we will see in the README.
 
-Exclamation marks are the bomb!!!!!!!!
+Exclamation marks are the bomb!!!!!!!! Periods are okay too.
